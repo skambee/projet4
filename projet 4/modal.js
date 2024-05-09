@@ -42,7 +42,7 @@ function editNav() {
   }
   
   //  -------------- REGISTRATION MODAL --------------
-  
+
   // event listeners
   modalBtn.forEach((btn) => btn.addEventListener("click", launchModal));
   closeModal.forEach(function (element) {
